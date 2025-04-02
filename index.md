@@ -1,4 +1,5 @@
 # **Welcome to my user page!**
+![Uploading image.png…]()
 ### Hi guys, make name is Thanh Hoang, but I like to call myself *Thanh Pro*, as that was my in game name when I used to be addicted to videos games, as I thought I was ~~Professional~~ at games, but now I am a "<ins>Pro</ins>grammer", so I still like to call myself that.
 # Here is my favorite quote that I try to follow
 > The secret to getting ahead is getting started - Mark Twain
@@ -32,3 +33,5 @@ CSS    (REALLY BASICS)
 4. C++
 
 HINT: In case you forgot, here is the link to the [programming languages I am familiar with](##Here-are-some-programming-languages-that-I-am-familiar-with)
+
+
