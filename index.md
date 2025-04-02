@@ -13,3 +13,6 @@ HTML  (REALLY BASICS)
 CSS   (REALLY BASICS)
 ```
 ## And my favorite programming language is `C++`!
+
+> [!TIP]
+> If you watch anime, let me put you on the best Anime website to watch! 
