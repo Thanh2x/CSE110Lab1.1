@@ -22,7 +22,7 @@ CSS   (REALLY BASICS)
 - [ ] Buy my parents a house
 - [x] Find my soulmate
 - [ ] Have 3 kids
-- [ ] Buy my dream car R34
+- [ ] Buy my dream car R34 Skyline
 
 # POP QUIZ: What's my favorite programming language?
 
