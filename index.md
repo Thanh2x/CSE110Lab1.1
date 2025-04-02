@@ -13,6 +13,14 @@ HTML   (REALLY BASICS)
 CSS    (REALLY BASICS)
 ```
 ## And my favorite programming language is `C++`!
+### My favorite program is
+```
+#include <iostream>
+int main() {
+  printf("Hello world!!!!!");
+  return 0;
+}
+```
 
 > [!TIP]
 > If you watch anime, let me put you on the [best Anime website](https://hianime.to/) to watch!
