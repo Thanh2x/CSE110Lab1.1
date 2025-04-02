@@ -43,7 +43,7 @@ int main() {
 HINT: In case you forgot, here is the link to the [programming languages I am familiar with](##Here-are-some-programming-languages-that-I-am-familiar-with)
 
 # Here is a picture of my favorite cat breed!
-![Here is a picture of my favorite cat breed](/workspaces/CSE110Lab1.1/BlackCAt.jpg)
+![Here is a picture of my favorite cat breed](BlackCAt.jpg)
 
 aa
 # Here are my life goals
