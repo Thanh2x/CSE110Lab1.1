@@ -42,6 +42,9 @@ int main() {
 
 HINT: In case you forgot, here is the link to the [programming languages I am familiar with](##Here-are-some-programming-languages-that-I-am-familiar-with)
 
+![Here is a picture of my favorite cat breed](https://image.petmd.com/files/inline-images/bombay-cat-breed.jpg?VersionId=Qz_cZGLn1bPgxzUXCY5No4UwZLwtClwU)
+
+
 # Here are my life goals
 - [ ] Get a job after graduating
 - [ ] Buy my parents a house
