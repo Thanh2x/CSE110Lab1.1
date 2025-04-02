@@ -4,11 +4,11 @@
 > The secret to getting ahead is getting started - Mark Twain
 
 ## Here are some programming languages that I am familiar with
-'''
+```
 Java
 C
 C++
 Python (Currently studying)
 HTML  (REALLY BASICS)
 CSS   (REALLY BASICS)
-'''
+```
