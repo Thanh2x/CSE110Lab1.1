@@ -18,11 +18,11 @@ CSS   (REALLY BASICS)
 > If you watch anime, let me put you on the [best Anime website](https://hianime.to/) to watch!
 
 # Here are my life goals
-- [] Get a job after graduating
-- [] Buy my parents a house
+- [ ] Get a job after graduating
+- [ ] Buy my parents a house
 - [x] Find my soulmate
-- [] Have 3 kids
-- [] Buy my dream car R34
+- [ ] Have 3 kids
+- [ ] Buy my dream car R34
 
 # POP QUIZ: What's my favorite programming language?
 
