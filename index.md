@@ -5,12 +5,12 @@
 
 ## Here are some programming languages that I am familiar with
 ```
-Java
-C
-C++
-Python (Currently studying)
-HTML  (REALLY BASICS)
-CSS   (REALLY BASICS)
+* Java
+* C
+* C++
+* Python (Currently studying)
+* HTML  (REALLY BASICS)
+* CSS   (REALLY BASICS)
 ```
 ## And my favorite programming language is `C++`!
 
