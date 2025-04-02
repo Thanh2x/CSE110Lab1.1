@@ -17,4 +17,11 @@ CSS   (REALLY BASICS)
 > [!TIP]
 > If you watch anime, let me put you on the [best Anime website](https://hianime.to/) to watch!
 
-In case you forgot, here is the link to the [programming languages I am familiar with](##Here-are-some-programming-languages-that-I-am-familiar-with)
+# POP QUIZ: What's my favorite programming language?
+
+1. JavaScript
+2. Angular
+3. Python
+4. C++
+
+HINT: In case you forgot, here is the link to the [programming languages I am familiar with](##Here-are-some-programming-languages-that-I-am-familiar-with)
