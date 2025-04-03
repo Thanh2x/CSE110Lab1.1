@@ -56,5 +56,6 @@ HINT: In case you forgot, here is the link to the [programming languages I am fa
 > This is the best toilet spot I found on campus!
 
 ![Toilet](WToilet.jpg)
+[LINK TO README.md](README.md)
 [Go back to beginning](#welcome-to-my-user-page)
 
