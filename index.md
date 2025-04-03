@@ -40,7 +40,7 @@ int main() {
 3. Python
 4. C++
 
-HINT: In case you forgot, here is the link to the [programming languages I am familiar with](##here-are-some-programming-languages-that-i-am-familiar-with)
+HINT: In case you forgot, here is the link to the [programming languages I am familiar with](#here-are-some-programming-languages-that-i-am-familiar-with)
 
 # Here is a picture of my favorite cat breed!
 ![Here is a picture of my favorite cat breed](BlackCAt.jpg)
