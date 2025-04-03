@@ -57,5 +57,6 @@ HINT: In case you forgot, here is the link to the [programming languages I am fa
 
 ![Toilet](WToilet.jpg)
 [LINK TO README.md](README.md)
+<br/>
 [Go back to beginning](#welcome-to-my-user-page)
 
